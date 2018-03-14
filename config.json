@@ -1,0 +1,15 @@
+{
+    "title": "testy 123",
+    "baseURL": "https:\/\/123.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759151",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "123.com"
+    }
+}
